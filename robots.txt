@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /medien/
+Disallow: /datenschutz.html
+Disallow: /impressum.html
+Disallow: /styles.css
+Disallow: /index.js
+
+Sitemap: https://www.byteopus.de/sitemap.xml
